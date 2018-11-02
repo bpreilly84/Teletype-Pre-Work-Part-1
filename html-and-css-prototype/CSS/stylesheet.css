@@ -39,4 +39,6 @@ h1 {
   light grey: #eaeaea;
 */
 
-/* Your CSS code goes here */
+.panel-container{
+	width:350px;
+	color:#908e8e;
