@@ -42,3 +42,11 @@ h1 {
 .panel-container{
 	width:350px;
 	color:#908e8e;
+	.gray-top-message {
+		background-color:#353535;
+		color:#fff;
+		padding:17px;
+		border-radius:5px;
+		text-align:center;
+		font-size:17px;
+	}
